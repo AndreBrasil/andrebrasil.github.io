@@ -21,7 +21,7 @@
             // Create a viz object and embed it in the container div.
         }
     </script> 
-    <script type="module" src="https://embedding.tableauusercontent.com/tableau.embedding.3.1.0.min.js"></script>
+    <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 
     <style>
 	    
@@ -65,10 +65,15 @@
 
 <body onload="initViz();">
 <div class='parent'>	
-	<tableau-viz id="tableauViz" class='child'
-  src="https://public.tableau.com/views/CountryrateofpublicationsperPhDgraduateperyear/RateofpublicationsperPhDgraduateperyear"
-toolbar="bottom" hide-tabs>
-	</tableau-viz>
+
+	
+
+
+<tableau-viz id="tableauViz"       
+  src='https://public.tableau.com/views/Superstore_24/Overview'      
+  device="phone" toolbar="bottom" hide-tabs>
+</tableau-viz>
+	
 </div>	
 </body>
 
