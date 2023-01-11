@@ -22,6 +22,18 @@
         }
     </script> 
     <style>
+	    
+.parent {
+  display: flex;  
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+  background: green; /* Just to visualize the extent */;
+} 
+	    
   .overlay {
     position: fixed;
     width: 100%;
@@ -39,16 +51,19 @@
   right: 0;
   overflow: auto;
   background: white; /* Just to visualize the extent */;
-  vertical-align: middle;
-	 
-  
+  vertical-align: middle;  
+}
+	    .child {
+  margin: auto;  /* Magic! */
 }
    </style>
 
 </head>
 
 <body onload="initViz();">
-    <div id="vizContainer", class='fullscreen'></div>
+<div class='parent'>	
+    <div id="vizContainer", class='child'></div>
+</div>	
 </body>
 
 </html>
