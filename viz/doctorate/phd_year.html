@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Basic Embed</title>
+    <title></title>
 
     <script type="text/javascript"
 	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
@@ -31,12 +31,22 @@
     background: rgba(51,51,51,0.7);
     z-index: 10;
   }
+ .fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+  background: lime; /* Just to visualize the extent */
+  
+}
    </style>
 
 </head>
 
 <body onload="initViz();">
-    <div id="vizContainer", class='overlay'></div>
+    <div id="vizContainer", class='fullscreen'></div>
 </body>
 
 </html>
