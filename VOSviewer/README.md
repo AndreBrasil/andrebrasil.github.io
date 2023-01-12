@@ -4,25 +4,31 @@ ORIGINAL VIEW
 
 https://app.vosviewer.com/?json=https://andrebrasil.github.io/VOSviewer/json_classification.json?download=1&simple_ui=true
 
+
 NO LABELS
 
 https://app.vosviewer.com/?json=https://andrebrasil.github.io/VOSviewer/json_classification.json?download=1&simple_ui=true&max_label_length=0
+
 
 GENERAL SIZE CHOICE
 
 https://app.vosviewer.com/?json=https://andrebrasil.github.io/VOSviewer/json_classification.json?download=1&simple_ui=true&max_label_length=0&scale=1.2
 
+
 ITEM SIZE CHOICE
 
 https://app.vosviewer.com/?json=https://andrebrasil.github.io/VOSviewer/json_classification.json?download=1&simple_ui=true&max_label_length=0&scale=1.2&item_size=3
+
 
 COLOUR OVERLAY CHOICE
 
 https://app.vosviewer.com/?json=https://andrebrasil.github.io/VOSviewer/json_classification.json?download=1&simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3
 
+
 CHOOSE COLOUR SCHEME
 
 https://app.vosviewer.com/?json=https://andrebrasil.github.io/VOSviewer/json_classification.json?download=1&simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3&score_colors=coolwarm
+
 
 SCALE ADJUSTMENT
 
@@ -30,7 +36,9 @@ https://app.vosviewer.com/?json=https://andrebrasil.github.io/VOSviewer/json_cla
 
 
 ###############################
+
 Parameters for creating or updating the layout and clustering of a network
+
 
 attraction	
 Value of the Attraction parameter on the Update tab in the control panel.
@@ -52,6 +60,7 @@ Value of the Merge small clusters switch on the Update tab in the control panel 
 
 ###############################
 PARAMETERS
+
 
 scale	      
 Value of the Scale slider on the View tab in the control panel.
