@@ -32,7 +32,7 @@ https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti
 
 SCALE ADJUSTMENT
 
-https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3&score_colors=coolwarm&min_score=-0.1&max_score=0.1
+https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui&max_label_length=0&scale=1.2&item_size=3&item_color=3&score_colors=coolwarm&min_score=-0.1&max_score=0.1
 
 
 ###############################
