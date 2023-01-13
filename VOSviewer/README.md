@@ -7,32 +7,32 @@ https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti
 
 NO LABELS
 
-https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui=true&max_label_length=0
+https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json&simple_ui=true&max_label_length=0
 
 
 GENERAL SIZE CHOICE
 
-https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui=true&max_label_length=0&scale=1.2
+https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json&simple_ui=true&max_label_length=0&scale=1.2
 
 
 ITEM SIZE CHOICE
 
-https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui=true&max_label_length=0&scale=1.2&item_size=3
+https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json&simple_ui=true&max_label_length=0&scale=1.2&item_size=3
 
 
 COLOUR OVERLAY CHOICE
 
-https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3
+https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json&simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3
 
 
 CHOOSE COLOUR SCHEME
 
-https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3&score_colors=coolwarm
+https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json&simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3&score_colors=coolwarm
 
 
 SCALE ADJUSTMENT
 
-https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json?simple_ui&max_label_length=0&scale=1.2&item_size=3&item_color=3&score_colors=coolwarm&min_score=-0.1&max_score=0.1
+https://app.vosviewer.com/?json=https://andrebrasil.github.io/classification_sti//Data/json_classification.json&simple_ui=true&max_label_length=0&scale=1.2&item_size=3&item_color=3&score_colors=coolwarm&min_score=-0.1&max_score=0.1
 
 
 ###############################
