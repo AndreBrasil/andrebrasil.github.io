@@ -4,7 +4,9 @@
 	<title>Between bibliometrics and peer review</title>
 </head>
 <body>
-	<iframe src='https://flo.uri.sh/story/884904/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:900px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+	<!--<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Hzx-5oFwKaN5OuxmVwj7v_n1doYxHkezvvSnYtIVHU4&font=Default&lang=en&start_at_end=true&initial_zoom=2&height=800' width='100%' height='800' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+	-->
+	<iframe src='https://tabsoft.co/3PI3tDC' width='100%' height='800' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+                                
 </body>
 </html>
-https://public.tableau.com/views/Betweenbibliometricsandpeerreview/Betweenbibliometricsandpeerreview?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
